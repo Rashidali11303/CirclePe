@@ -13,7 +13,6 @@
 
   Realvine is a fully responsive real estate website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/realvine/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -32,18 +31,6 @@ Before you begin, ensure you have met the following requirements:
 ### Run Locally
 
 To run **Realvine** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/realvine.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/realvine.git
-```
 
 
 ### License
